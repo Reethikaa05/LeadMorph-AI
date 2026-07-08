@@ -3,6 +3,10 @@ const express = require("express");
 const cors = require("cors");
 const routes = require("./routes");
 const { notFound, errorHandler } = require("./middleware/errorHandler");
+const { seedDatabase } = require("./utils/seeder");
+
+// Seed database on startup if empty
+seedDatabase();
 
 const app = express();
 
