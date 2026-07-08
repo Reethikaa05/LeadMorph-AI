@@ -1,5 +1,8 @@
 # GrowEasy — AI-Powered CSV Lead Importer
 
+🚀 **Live Demo**: [https://lead-morph-ai-nine.vercel.app](https://lead-morph-ai-nine.vercel.app)  
+⚙️ **Live API**: [https://leadmorph-ai.onrender.com](https://leadmorph-ai.onrender.com)
+
 Turn **any** CSV export — Facebook Lead Ads, Google Ads, Excel sheets, real-estate CRM
 exports, sales reports, or a spreadsheet someone made by hand — into clean, structured
 **GrowEasy CRM** leads, automatically.
