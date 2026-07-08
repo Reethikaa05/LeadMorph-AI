@@ -67,7 +67,7 @@ the fixed CRM schema, skips unusable rows, and reports exactly what happened.
 Here is a visual walkthrough of the GrowEasy CRM and AI Importer:
 
 ### 1. Dashboard & Analytics
-![Dashboard Analytics](./screenshot/Screenshot_7-7-2026_233943_localhost.jpeg)
+![Dashboard Analytics](./screenshot/Screenshot_8-7-2026_152353_lead-morph-ai-nine.vercel.app.jpeg)
 *The main overview dashboard displaying the 7-day import trend chart, lead status breakdown pie chart, and total leads statistics.*
 
 ### 2. Interactive CSV Importer Wizard
